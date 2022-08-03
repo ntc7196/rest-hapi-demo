@@ -24,7 +24,7 @@ async function api () {
       docExpansion: 'list',
       swaggerHost: 'localhost:8080',
       mongo: {
-        URI: 'mongodb://localhost:27017/rest_hapi',
+        URI: 'mongodb+srv://ntc:Cong711996%40@cluster1.sg6pb.mongodb.net'
       },
     }
 

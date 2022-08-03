@@ -22,7 +22,7 @@ async function api () {
       enableTextSearch: true,
       logRoutes: true,
       docExpansion: 'list',
-      swaggerHost: 'localhost:8080',
+      swaggerHost: 'https://rest-hapi-demo.vercel.app:80',
       mongo: {
         URI: 'mongodb+srv://ntc:Cong711996%40@cluster1.sg6pb.mongodb.net'
       },
